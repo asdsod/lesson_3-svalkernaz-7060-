@@ -1,0 +1,28 @@
+  p {
+    color:black;
+}
+ p span.name-game {
+    color:magenta;
+
+}
+p span.gordon-loms{
+    color: red;
+} 
+ .osnovnoe > span  {
+     color:forestgreen;
+ }
+ h1.zagolovok {
+     color: green;
+ }
+.montir {
+     color:darkblue ;
+ }
+ .aliks,
+ .dog {
+     color: green;
+ }
+ #siklo {
+    color: green;
+ }
+
+
